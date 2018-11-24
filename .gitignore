@@ -62,3 +62,9 @@ typings/
 
 # IDEA
 .idea
+
+# npm
+package-lock.json
+
+# node
+node_modules
