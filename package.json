@@ -1,0 +1,23 @@
+{
+  "name": "learn-ramdajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexFoxJS/learn-ramdajs.git"
+  },
+  "author": "AlexFoxJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexFoxJS/learn-ramdajs/issues"
+  },
+  "homepage": "https://github.com/AlexFoxJS/learn-ramdajs#readme"
+}
